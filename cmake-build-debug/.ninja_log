@@ -1,10 +1,24 @@
 # ninja log v5
 0	425	6916116669908116	CMakeFiles/Problem_1.dir/22-23(1)-5/Problem_1.cpp.obj	b83f55550f938d08
 1	849	6916497859340835	CMakeFiles/Problem_4.dir/M_22-23(1)-4/Problem_4.cpp.obj	353929cb865b1e93
-803	992	6916413839829621	Problem_1.exe	8786bec9815879fb
+366	474	6917543956723770	Problem_1.exe	c3ec94142faedb75
 0	650	6916119930774889	CMakeFiles/Problem_6.dir/22-23(1)-5/Problem_6.cpp.obj	473e3c1a100cde32
 0	800	6916413837940954	CMakeFiles/Problem_1.dir/M_22-23(1)-5/Problem_1.cpp.obj	cb6aefb33ddb779f
-586	733	6916522479942039	Problem_4.exe	5b3a8b93300f131e
+569	712	6917679712674780	Problem_4.exe	f72ff97719a9f165
 0	666	6916519809013202	CMakeFiles/Problem_2.dir/M_22-23(1)-3/Problem_2.cpp.obj	4e18213bf14e6335
 669	801	6916519810299775	Problem_2.exe	8f1219756bc4be5a
 0	585	6916522478494105	CMakeFiles/Problem_4.dir/M_22-23(1)-3/Problem_4.cpp.obj	62592be5443b3af6
+4	365	6917543955646655	CMakeFiles/Problem_1.dir/M_Pre-LanQiao-2022/Problem_1.cpp.obj	bd23e7a4a1dad8eb
+0	407	6917554042449694	CMakeFiles/Problem_3.dir/M_Pre-LanQiao-2022/Problem_3.cpp.obj	c5a40b32c9c82803
+408	629	6917554044653799	Problem_3.exe	64371b11865c788d
+4	568	6917679711238516	CMakeFiles/Problem_4.dir/M_Pre-LanQiao-2022/Problem_4.cpp.obj	103c8b5a4e981c2a
+3	391	6917692403364641	CMakeFiles/Problem_5.dir/M_Pre-LanQiao-2022/Problem_5.cpp.obj	ef590af7872ce5c0
+392	513	6917692404531458	Problem_5.exe	8537581e345bb7d2
+5	536	6917727084750041	CMakeFiles/Problem_6.dir/M_Pre-LanQiao-2022/Problem_6.cpp.obj	fd1f7d9554d23014
+537	661	6917727085966429	Problem_6.exe	a2a5c48964603a92
+3	392	6917727406784908	CMakeFiles/Problem_6.dir/M_Pre-LanQiao-2022/Problem_6.cpp.obj	fd1f7d9554d23014
+393	508	6917727407904164	Problem_6.exe	a2a5c48964603a92
+3	412	6917727448151214	CMakeFiles/Problem_6.dir/M_Pre-LanQiao-2022/Problem_6.cpp.obj	fd1f7d9554d23014
+413	525	6917727449252613	Problem_6.exe	a2a5c48964603a92
+3	453	6917730585653108	CMakeFiles/Problem_6.dir/M_Pre-LanQiao-2022/Problem_6.cpp.obj	fd1f7d9554d23014
+454	583	6917730586909435	Problem_6.exe	a2a5c48964603a92
